@@ -1,8 +1,29 @@
 
 # Introduction
 
+## Why Tailwind
+
+CSS Cascading Style Sheets, is hard to debug
+
+Bootstrap, such as button, card, nav. define a number of CSS styles toghther.
+
+Tailwind is explicit.
+
+**Tailwind Advantanges**
+
+- Prototype
+- Iterate
+- Customize
+- Set of prefixes
+
+| Tailwind application requires less CSS to be written, with most of the design coming from the composition of Tailwind utilities. This means we spend less time naming CSS and managing global CSS, allowing us to spend more effort on the actual display of our site. Tailwind makes it easy to make incremental changes, see the results, and understand the scope of our changes. These features make it especially useful when prototyping a new site.
+
 
 # Getting Started with Tailwind
+
+## Quick Start
+
+## Add Tailwind Features
 
 # Tailwind Basics
 

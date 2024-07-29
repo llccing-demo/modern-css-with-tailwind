@@ -41,3 +41,8 @@ Tailwind is explicit.
 
 # Conclusion
 
+# Notes
+课程地址在这里,
+https://www.educative.io/courses/modern-css-tailwind/add-tailwind-features
+
+但是由于VM的网络原因，ruby, rails安装版本低，和 nodejs 版本不匹配，所以暂时搁置该课程。后续有空再弄。
